@@ -1,6 +1,6 @@
 # Affine Encryption Algorithm / Affine Şifreleme Algoritması
 
-**DİL / LANGUAGE : ENG**
+**DİL / LANGUAGE : EN**
 
 The affine is a type of monoalphabetic substitution cipher, where each letter in an alphabet is 
 mapped to its numeric equivalent, encrypted using a simple mathematical function, and converted 
