@@ -9,5 +9,5 @@ back to a letter.
 **DİL / LANGUAGE : TR**
 
 Affine şifreleme ya da diğer bir adıyla doğrusal şifreleme geometrik bir şifreleme yöntemidir.
----------------------------------------------------
+***********************************************
 *It is coded according to the English alphabet. / İngiliz alfabesine göre kodlanmıştır.*
