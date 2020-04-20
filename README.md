@@ -1,4 +1,4 @@
-# Affine Encryption Algorithm
+# Affine Encryption Algorithm / Affine Şifreleme Algoritması
 
 **DİL / LANGUAGE : ENG**
 
